@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello!
+
+I'm a Master's student in Computer Science at Georgia Tech. I'm currently broadly working on computer architecture and architectural security. I work in the HPArch Lab at Georgia Tech with Prof Hyesoon Kim. 
+
+\\In a previous life, I was an engineer at Arm and Intel. 
 
 <!--
 **anuragkar09/anuragkar09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
