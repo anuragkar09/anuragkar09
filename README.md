@@ -4,7 +4,7 @@ I'm a PhD student in Computer Science at Georgia Tech. I'm currently broadly wor
 
 In a previous life, I was an engineer at Arm and Intel. 
 
-Check out my [website](anuragkar09.github.io) for more current information about my work and activities. 
+Check out my [website](https://anuragkar09.github.io) for more current information about my work and activities. 
 <!--
 **anuragkar09/anuragkar09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
