@@ -1,6 +1,6 @@
 ### Hello!🙋🏽‍♂️
 
-I'm a PhD student in Computer Science at Georgia Tech. I'm currently broadly working on computer architecture and architectural security. I work in the HPArch Lab at Georgia Tech with Prof Hyesoon Kim. 
+I'm a PhD student in Computer Science at Georgia Tech. I'm broadly interested in computer architecture and more specifically in designing secure systems. I work in the HPArch Lab at Georgia Tech with Prof Hyesoon Kim. 
 
 In a previous life, I was an engineer at Arm and Intel. 
 
